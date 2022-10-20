@@ -65,7 +65,7 @@ for i in range(2):
 
 with gr.Blocks() as demo:
     with gr.Row():
-        gr.Markdown('<img src="https://i.ibb.co/48fKLh9/Microsoft-Teams-image-3.png" style="margin:auto">')
+        gr.Markdown('<img src="https://blog.reputationx.com/hs-fs/hubfs/what-is-sentiment-analysis-cover.jpg?width=2500&height=2500&name=what-is-sentiment-analysis-cover.jpg" style="margin:auto">')
     with gr.Row():
         with gr.Column(scale=1):
             gr.Markdown('<div style="transform: translateY(50%);"><h1 style="font-family:kievit;font-size:30px;">Text Sentiment Analysis with NLP(RoBERTa)</h1></div>')
