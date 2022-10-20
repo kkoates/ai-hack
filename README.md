@@ -9,7 +9,7 @@ In this Interactive demo, the user can input text and submit to get the correspo
 > $ ssh -i \<ssh.key> ubuntu@\<public-ip>
 
 ### Launch the container
-> $ wget https://raw.githubusercontent.com/AmpereComputingAI/ai-hackathon-2022/master/nlp/sentiment-analysis/start-docker-cloud-hackathon.sh
+> $ wget https://raw.githubusercontent.com/kkoates/ai-hack/master/nlp/sentiment-analysis/start-docker-cloud-hackathon.sh
 
 > $ bash start-docker-cloud-hackathon.sh  
 Starting sentiment-analysis-pt-aio-demo container  
